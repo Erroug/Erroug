@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm vidyadhar chaudhary</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-- 🌱 I’m currently learning **ML**
+- 🌱 I’m currently learning **Django**
 
 - 💬 Ask me about **python**
+- **HTML**
+- **CSS**
+- **JAVASCRIPT**
 
-- 📫 How to reach me **vidyadhar.chaudhary.chaudhary80@gmail.com**
+- 📫 How to reach me **vidyadhar.chaudhary80@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
