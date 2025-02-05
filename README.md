@@ -7,6 +7,9 @@
 - **HTML**
 - **CSS**
 - **JAVASCRIPT**
+- **Figma**
+- **Python**
+- **OOPS with python** 
 
 - 📫 How to reach me **vidyadhar.chaudhary80@gmail.com**
 
