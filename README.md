@@ -9,7 +9,9 @@
 - **JAVASCRIPT**
 - **Figma**
 - **Python**
-- **OOPS with python** 
+- **OOPS with python**
+- ** Git and Github**
+- 
 
 - 📫 How to reach me **vidyadhar.chaudhary80@gmail.com**
 
