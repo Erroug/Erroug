@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm vidyadhar chaudhary</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">A passionate web Designer and developer from India</h3>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **react.js**
 
 - 💬 Ask me about **python**
 - **HTML**
@@ -11,7 +11,6 @@
 - **Python**
 - **OOPS with python**
 - ** Git and Github**
-- 
 
 - 📫 How to reach me **vidyadhar.chaudhary80@gmail.com**
 
